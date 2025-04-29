@@ -21,3 +21,7 @@ logs
 mvnw.cmd
 HELP.md
 mvnw
+/node_modules/
+/src/.vuepress/.cache/
+/src/.vuepress/.temp/
+/.idea/
